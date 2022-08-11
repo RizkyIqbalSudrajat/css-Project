@@ -1,0 +1,102 @@
+.menu {
+    margin: 0;
+    width: 100%;
+    position: sticky;
+}
+
+nav {
+    width: 30%;
+    height: 60px;
+    background: #e2e0e0;
+}
+
+ul.horizontal {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-color: #d18902;
+
+}
+
+ul.horizontal li {
+    float: left;
+
+}
+
+ul.horizontal li a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+ul.horizontal li a:hover {
+    background-color: #6b0101;
+}
+
+.judul {
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.desk {
+    margin-left: 100px;
+    width: 70%;
+    height: 100px;
+
+    column-gap: 30px;
+    column-rule-style: solid;
+    column-rule-width: 2px;
+    column-rule-color: #000;
+}
+
+.judul2 {
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.desk2 {
+    margin-left: 100px;
+    width: 70%;
+    height: 80px;
+
+    column-gap: 30px;
+    column-rule-style: solid;
+    column-rule-width: 2px;
+    column-rule-color: #000;
+}
+
+.judul3 {
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.desk3 {
+    margin-left: 100px;
+    width: 70%;
+    height: 80px;
+
+    column-gap: 30px;
+    column-rule-style: solid;
+    column-rule-width: 2px;
+    column-rule-color: #000;
+}
+
+.judul4 {
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.desk4 {
+    margin-left: 100px;
+    width: 70%;
+    height: 80px;
+    margin-block-end: 100px;
+
+    column-gap: 30px;
+    column-rule-style: solid;
+    column-rule-width: 2px;
+    column-rule-color: #000;
+}
